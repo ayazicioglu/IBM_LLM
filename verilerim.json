@@ -600,11 +600,6 @@
     "type": "analytical"
   },
   {
-    "question": "In the context of hydrocarbon degradation顺序，which type has the highest biodegradability?",
-    "answer": "Linear alkanes are listed as having the highest biodegradability in comparison to branched alkyl aromatics, monoaromatics, cyclic alkanes, polyaromatics, and asphaltenes (Varjani 2017).",
-    "type": "factual"
-  },
-  {
     "question": "How does branching affect hydrocarbon degradation rate?",
     "answer": "Branching slows down the rate of biodegradation due to increased difficulty for microorganisms to interact with and transform the substrate.",
     "type": "analytical"
@@ -1188,31 +1183,6 @@
     "question": "Why does iron (Fe) play a significant role in biosurfactant synthesis, as mentioned by Haferburg and Kothe (2007)?",
     "answer": "Iron is naturally bio-compatible and serves as a crucial component for various microorganisms to synthesize biosurfactants.",
     "type": "contextual"
-  },
-  {
-    "question": "What is the effect of Fe atoms on微生物的代谢途径 in Nocardiopsis MSA13A?",
-    "answer": "Fe原子被微生物广泛用于关键代谢路径中,比如Kiran等人的研究(2014)表明，相较于对照（无纳米铁），Nocardiopsis MSA13A在每升含10毫克/L的纳米铁条件下能产生80%更多的生物表面活性剂。此外，扫描电子显微镜观察到纳米铁对细菌菌丝结构没有影响，证明其对微生物非毒性。",
-    "type": "analytical"
-  },
-  {
-    "question": "How does Fe concentration affect the production of glycolipid biosurfactant in Serratia spp.?",
-    "answer": "在Serratia spp.中,每升添加1毫克/L的Fe纳米粒子可导致生物表面活性剂生产大约提升63%，以及细菌生长增加57%。然而，高浓度的Fe-NP会抑制微生物的增长，提示需要限制文化培养基中的铁离子以保证适当生产的糖脂类生物表面活性剂",
-    "type": "analytical"
-  },
-  {
-    "question": "In a study by Liu et al. (2013), what was the observed increase in biosurfactant production with Fe-silica nanoparticles?",
-    "answer": "Liu等人的研究中，添加1毫克/L的铁硅纳米粒子到Pseudomonas aeruginosa菌株6小时内能增加rhamnolipid产量57%，相对于无纳米颗粒的培养基",
-    "type": "factual"
-  },
-  {
-    "question": "What evidence suggests that Fe nanoparticles are non-toxic to Nocardiopsis MSA13A?",
-    "answer": "通过扫描电子显微镜观察，Fe-纳米粒子对Nocardiopsis MSA13A菌丝结构没有影响，表明它们对细菌是无害的",
-    "type": "analytical"
-  },
-  {
-    "question": "What is the optimal concentration for Fe ions in a culture medium to promote glycolipid biosurfactant production, as suggested by Liu et al. (2013)?",
-    "answer": "Liu等人的研究建议，限制文化培养基中的Fe离子浓度以保证充足的糖脂类生物表面活性剂生产",
-    "type": "interpretative"
   },
   {
     "question": "What factors contribute to the increase in biosurfactant yield with higher NP concentrations?",
