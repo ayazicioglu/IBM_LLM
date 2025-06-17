@@ -44,4 +44,10 @@ The **inputs syntax is used to unpack a dictionary of keyword arguments in Pytho
 with torch.no_grad():
     outputs = model(**inputs)
 
-# 
+"""Perform inference
+The torch.no_grad() context manager is used to disable gradient calculation. This reduces memory consumption and speeds up computation, as gradients are not needed for inference (i.e. when you are not training the model). 
+The **inputs syntax is used to unpack a dictionary of keyword arguments in Python. In the context of the model(**inputs):"""
+
+# Perform inference
+with torch.no_grad():
+    outputs = model(**inputs)
